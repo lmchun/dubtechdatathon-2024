@@ -6,7 +6,7 @@ This is specifically my section of the DubTechs Datathon, 2024.
 
 Our team tackled the Health Track - Drug Overdose in USA we tackled the data analysis and data visualization tasks.
 
-Data Analysis and Visualization
+### Data Analysis and Visualization
 - What are the trends in drug overdose death rates over time? Highlight any significant changes or patterns in the death rates over the years. Break down the trends by 
   - Drug overdose type
   - Sex
@@ -15,8 +15,13 @@ Data Analysis and Visualization
 
 - Are there are any specific demographic groups (gender/sex/age) that are most affected by specific types of drug overdoses?
 - Are opioids more lethal to certain age groups or races?
-  
 
+### Reflection 
+This was my first time working on a data analytic project using Python and Tableau. I had to quickly get up to speed and learn how to transform the data and represent it which were challenges, since my learning was focused in SQL.
+### Outcomes
+Our team successfully completed the task and created visuals, we compiled our findings into a presentation to submit to the judges. (At the time of me writing this, we do not know the results of our work.)
+
+### Links
 Rest of the Project - https://github.com/linasc3-ai/datathon
 
 Our Presentation - https://docs.google.com/presentation/d/16Hebv5GD9IyM6YcZ0h3K1IbSQ1Nw6tvX3dBZRNDeJVc/edit?usp=sharing
